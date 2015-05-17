@@ -1,5 +1,7 @@
 ## Laravel 5 Admin Module
 
+[![Join the chat at https://gitter.im/maksimmysak/admin](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/maksimmysak/admin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Latest Stable Version](https://poser.pugx.org/sleeping-owl/admin/v/stable.svg)](https://packagist.org/packages/sleeping-owl/admin)
 [![License](https://poser.pugx.org/sleeping-owl/admin/license.svg)](https://packagist.org/packages/sleeping-owl/admin)
 
